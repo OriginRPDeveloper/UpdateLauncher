@@ -1,0 +1,16 @@
+{
+	"News1":[
+	  {
+		"Image":"https://exampleurl.com/",
+		"Description":"Описание",
+		"Url":"https://vk.com/"
+	  }
+	],
+	"News2":[
+	  {
+		"Image":"https://exampleurl.com/",
+		"Description":"Описание",
+		"Url":"https://vk.com/"
+	  }
+	]
+}
